@@ -1,4 +1,7 @@
 
+![Logo](https://github.com/codeitamarjr/Blog/blob/master/assets/img/ICON_32.png?raw=true)
+
+    
 # Personal Page created with Bootstrap
 
 This is my personal page created with Bootstrap and custom CSS.
