@@ -34,3 +34,9 @@ www.itjunior.dev
 If you have any feedback, please reach me out at itjunior@gmail.com
 
   
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+  
