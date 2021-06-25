@@ -8,7 +8,7 @@ This is my personal page created with Bootstrap and custom CSS.
 
 ## Screenshots
 
-![App Screenshot](https://github.com/codeitamarjr/Blog/blob/master/assets/screenshot.png?raw=true)
+![App Screenshot](https://github.com/codeitamarjr/Blog_version1.0/blob/master/assets/screenshot.png?raw=true)
 
   
 ## Author
@@ -20,7 +20,7 @@ This is my personal page created with Bootstrap and custom CSS.
 
 You can find this project running on my personal page on the address below:
 
-www.itjunior.dev
+https://codeitamarjr.github.io/Blog_version1.0/
 
   
 ## Features
