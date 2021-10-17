@@ -20,7 +20,7 @@ This is my personal page created with Bootstrap and custom CSS.
 
 You can find this project running on my personal page on the address below:
 
-https://codeitamarjr.github.io/Blog_version1.0/
+https://codeitamarjr.github.io/PersonalPage1.0/
 
   
 ## Features
