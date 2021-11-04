@@ -31,7 +31,7 @@ https://codeitamarjr.github.io/PersonalPage1.0/
   
 ## Feedback
 
-If you have any feedback, please reach me out at itjunior@gmail.com
+If you have any feedback, please reach me out at hello@itjunior.dev
 
   
 
